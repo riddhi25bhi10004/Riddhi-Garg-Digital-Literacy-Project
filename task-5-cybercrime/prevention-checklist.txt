@@ -1,0 +1,24 @@
+🛡️ 'Stay Safe Online' Checklist
+
+•Use MFA for Everything: Enable Multi-Factor Authentication (MFA) on your university portals, Gmail, and Instagram. Even if someone steals your password, they can't get in without that second code.
+
+•Audit Your App Permissions: Periodically check which apps have access to your contacts, microphone, and location. If that "Free PDF Converter" wants access to your gallery, hit delete.
+
+•Secure Your UPI PIN: Treat your UPI PIN like your ATM PIN. Never share it over a call or enter it to receive money. Remember: You only enter your PIN to send money, never to receive it.
+
+•Verify Before Scanning QR Codes: Scammers often paste fake QR codes over legitimate ones at local shops. Always verify the merchant's name on your screen before hitting "Pay."
+
+•Beware of 'Urgent' WhatsApp Requests: If a friend or professor messages you asking for an emergency fund transfer or an OTP, call them directly to verify. Identity spoofing is common on campus networks.
+
+•Avoid Public Wi-Fi for Banking: Campus cafes are great, but their open Wi-Fi isn't. Use your mobile data or a trusted VPN when accessing your bank account or sensitive student records.
+
+•Practice 'Social Media Hygiene': Set your profiles to private and be wary of "friend requests" from accounts that look like duplicates of people you already know.
+
+•Check for HTTPS: Before entering credentials on any website—especially for scholarship applications or exam registrations—ensure the URL begins with https:// and has the padlock icon.
+
+🚨 How to Report Cyber Crime
+If you encounter a scam or find your privacy compromised, don't hesitate. Immediate reporting increases the chances of recovering lost funds and preventing further harm.
+
+Official Portal: cybercrime.gov.in
+National Helpline Number: 1930 (Available 24/7)
+
